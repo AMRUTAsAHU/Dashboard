@@ -1,0 +1,161 @@
+Activity ID,Activity Name,Original Duration,Start,Finish
+"    Procurement, Design & Development",,463,29-Sep-25,05-Jan-27
+      Procurement Part-1 (Order Finalisation),,183,30-Sep-25,31-Mar-26
+        Support System,,125,30-Sep-25,27-Feb-26
+          MEP-PR1-SUP1000,PROC- ORDER FIN - Electrical - Supports including Siesmic Supports,25,30-Sep-25,30-Oct-25
+          MEP-PR1-SUP1015,PROC- ORDER FIN - ELV & BMS- Supports including Siesmic Supports,20,17-Dec-25,10-Jan-26
+          MEP-PR1-SUP1010,PROC- ORDER FIN - FPS- Supports including Siesmic Supports,20,24-Nov-25,16-Dec-25
+          MEP-PR1-SUP1025,PROC- ORDER FIN - HSD- Supports including Siesmic Supports,20,05-Feb-26,27-Feb-26
+          MEP-PR1-SUP1005,PROC- ORDER FIN - HVAC - Supports including Siesmic Supports,20,31-Oct-25,22-Nov-25
+          MEP-PR1-SUP1020,PROC- ORDER FIN - PHE- Supports including Siesmic Supports,20,12-Jan-26,04-Feb-26
+        Electrical,,125,30-Sep-25,27-Feb-26
+          Priority 1,,125,30-Sep-25,27-Feb-26
+            MEP-PR1-ELE-1020,PROC- ORDER FIN - ELE - Busduct,10,05-Dec-25,16-Dec-25
+            MEP-PR1-ELE-1000,PROC- ORDER FIN - ELE - Conduits,10,12-Nov-25,22-Nov-25
+            MEP-PR1-ELE-1035,PROC- ORDER FIN - ELE - Earthing & Lightning Protection,10,12-Jan-26,22-Jan-26
+            MEP-PR1-ELE-1100,PROC- ORDER FIN - ELE - HT & LT Power Cables,10,24-Nov-25,04-Dec-25
+            MEP-PR1-ELE-1010,PROC- ORDER FIN - ELE - Isolation Transformer (For Lighting & ELV System),10,30-Dec-25,10-Jan-26
+            MEP-PR1-ELE-1050,PROC- ORDER FIN - ELE - N2 Generator,10,18-Oct-25,30-Oct-25
+            MEP-PR1-ELE-1065,PROC- ORDER FIN - ELE - Power Transformer,10,31-Oct-25,11-Nov-25
+            MEP-PR1-ELE-1040,PROC- ORDER FIN - ELE - RMU,10,23-Jan-26,04-Feb-26
+            MEP-PR1-ELE-1060,PROC- ORDER FIN - ELE - Substation automation system,10,17-Feb-26,27-Feb-26
+            MEP-PR1-ELE-1025,PROC- ORDER FIN - ELE - Switch & Sockets,10,17-Dec-25,29-Dec-25
+            MEP-PR1-ELE-1045,PROC- ORDER FIN - ELE - UPS,10,05-Feb-26,16-Feb-26
+            MEP-PR1-ELE-1115,PROC- ORDER FIN - ELE - Wires & Cables (HT & LT),15,30-Sep-25,17-Oct-25
+          Priority 2,,10,18-Oct-25,30-Oct-25
+            MEP-PR1-ELE-1005,PROC- ORDER FIN - ELE - Cable Tray,10,18-Oct-25,30-Oct-25
+            MEP-PR1-ELE-1030,PROC- ORDER FIN - ELE - Distribution Boards,10,18-Oct-25,30-Oct-25
+          Priority 3,,62,18-Oct-25,31-Dec-25
+            MEP-PR1-ELE-1131,PROC- ORDER FIN - ELE - Elevators,30,26-Nov-25,31-Dec-25
+            MEP-PR1-ELE-1015,PROC- ORDER FIN - ELE - External & Internal Light Fixtures,12,18-Oct-25,01-Nov-25
+            MEP-PR1-ELE-1055,PROC- ORDER FIN - ELE - Light Pole,10,03-Nov-25,13-Nov-25
+            MEP-PR1-ELE-1120,PROC- ORDER FIN - ELE - Load Bank,10,14-Nov-25,25-Nov-25
+        HVAC,,81,30-Sep-25,06-Jan-26
+          Priority 1,,42,30-Sep-25,19-Nov-25
+            MEP-PR1-HVAC-1050,PROC- ORDER FIN - HVAC - Automatic Balancing Valve,6,13-Oct-25,18-Oct-25
+            MEP-PR1-HVAC-1035,PROC- ORDER FIN - HVAC - Buffer Tanks,12,30-Sep-25,14-Oct-25
+            MEP-PR1-HVAC-1040,"PROC- ORDER FIN - HVAC - Degasser System (Expansion Tank,Pressurisation unit with Vaccuum Degasser)",12,30-Sep-25,14-Oct-25
+            MEP-PR1-HVAC-1085,PROC- ORDER FIN - HVAC - DX AHU's & TFA's,10,17-Oct-25,29-Oct-25
+            MEP-PR1-HVAC-1020,PROC- ORDER FIN - HVAC - Gauges & Accessories,6,13-Oct-25,18-Oct-25
+            MEP-PR1-HVAC-1010,PROC- ORDER FIN - HVAC - Motorised Valves,4,13-Oct-25,16-Oct-25
+            MEP-PR1-HVAC-1090,PROC- ORDER FIN - HVAC - Pressurisation Fans,10,17-Oct-25,29-Oct-25
+            MEP-PR1-HVAC-1045,PROC- ORDER FIN - HVAC - Two Way On/Off Valve,6,13-Oct-25,18-Oct-25
+            MEP-PR1-HVAC-1005,PROC- ORDER FIN - HVAC - Valves (Manual Butterfly Valve & NRV),4,13-Oct-25,16-Oct-25
+            MEP-PR1-HVAC-1030,PROC- ORDER FIN - HVAC - VRF System,18,30-Oct-25,19-Nov-25
+          Priority 2,,81,30-Sep-25,06-Jan-26
+            MEP-PR1-HVAC-1065,"PROC- ORDER FIN - HVAC - ADP's (Diffusers,Grilles, VCD & Fire Dampers)",8,08-Oct-25,16-Oct-25
+            MEP-PR1-HVAC-1075,PROC- ORDER FIN - HVAC - Chemical Dosing System,26,17-Oct-25,17-Nov-25
+            MEP-PR1-HVAC-1100,PROC- ORDER FIN - HVAC - Fire Rated Ducts,15,18-Dec-25,06-Jan-26
+            MEP-PR1-HVAC-1070,PROC- ORDER FIN - HVAC - Flexible Ducts,26,18-Nov-25,17-Dec-25
+            MEP-PR1-HVAC-1060,PROC- ORDER FIN - HVAC - GI Ducts,6,30-Sep-25,07-Oct-25
+            MEP-PR1-HVAC-1000,PROC- ORDER FIN - HVAC - MS Pipes,10,30-Sep-25,11-Oct-25
+            MEP-PR1-HVAC-1025,PROC- ORDER FIN - HVAC - Rubber Bellows,10,13-Oct-25,24-Oct-25
+            MEP-PR1-HVAC-1080,PROC- ORDER FIN - HVAC - Side Stream Filter,15,17-Oct-25,04-Nov-25
+            MEP-PR1-HVAC-1015,PROC- ORDER FIN - HVAC - Strainers,10,13-Oct-25,24-Oct-25
+          Priority 3,,6,13-Oct-25,18-Oct-25
+            MEP-PR1-HVAC-1055,PROC- ORDER FIN - HVAC - Thermal & Acoustic Insulation,6,13-Oct-25,18-Oct-25
+"        ELV (FAPA, VESDA,WLD, RRS & FLD)",,81,30-Sep-25,19-Dec-25
+          Priority 1,,56,30-Sep-25,05-Dec-25
+            MEP-PR1-ELV-1005,PROC- ORDER FIN - ELV - FAPA System,10,08-Oct-25,18-Oct-25
+            MEP-PR1-ELV-1010,PROC- ORDER FIN - ELV - FS Cables,6,30-Sep-25,07-Oct-25
+            MEP-PR1-ELV-1025,PROC- ORDER FIN - ELV - GI Conduits,12,22-Nov-25,05-Dec-25
+            MEP-PR1-ELV-1020,PROC- ORDER FIN - ELV - RRS,18,01-Nov-25,21-Nov-25
+            MEP-PR1-ELV-1015,PROC- ORDER FIN - ELV - VESDA System,10,20-Oct-25,31-Oct-25
+            MEP-PR1-ELV-1000,PROC- ORDER FIN - ELV - WLD & FLD System,10,08-Oct-25,18-Oct-25
+          Priority 2,,12,06-Dec-25,19-Dec-25
+            MEP-PR1-ELV-1030,PROC- ORDER FIN - ELV - Cable Tray (Solid Trunking),12,06-Dec-25,19-Dec-25
+          Priority 3,,0,,
+        FPS,,137,30-Sep-25,14-Mar-26
+          Priority 1,,129,30-Sep-25,05-Mar-26
+            MEP-PR1-FPS-1065,PROC- ORDER FIN - FPS - Automatic Purge Valve with Control Panel,10,02-Jan-26,13-Jan-26
+            MEP-PR1-FPS-1085,PROC- ORDER FIN - FPS - Deluge Valve,10,29-Jan-26,09-Feb-26
+            MEP-PR1-FPS-1055,PROC- ORDER FIN - FPS - Fire Pumps with Controller,12,07-Oct-25,20-Oct-25
+            MEP-PR1-FPS-1015,PROC- ORDER FIN - FPS - Fittings,10,21-Feb-26,05-Mar-26
+            MEP-PR1-FPS-1075,PROC- ORDER FIN - FPS - Foam Bladder Tank,10,26-Nov-25,06-Dec-25
+            MEP-PR1-FPS-1080,PROC- ORDER FIN - FPS - Foam Maker Nozzle with Foam Pourer,10,08-Dec-25,18-Dec-25
+            MEP-PR1-FPS-1025,PROC- ORDER FIN - FPS - Grooved End Vertical Trim Alarm Valve,10,03-Nov-25,13-Nov-25
+            MEP-PR1-FPS-1095,PROC- ORDER FIN - FPS - High Pressure Water Mist System,12,14-Jan-26,28-Jan-26
+            MEP-PR1-FPS-1060,PROC- ORDER FIN - FPS - Hydrant System,10,22-Oct-25,01-Nov-25
+            MEP-PR1-FPS-1000,PROC- ORDER FIN - FPS - Medium Velocity Water Spray System,10,10-Feb-26,20-Feb-26
+            MEP-PR1-FPS-1090,PROC- ORDER FIN - FPS - Open type Foam water sprinkler,10,19-Dec-25,31-Dec-25
+            MEP-PR1-FPS-1050,PROC- ORDER FIN - FPS - Pre Action Unit with Nitrogen Generator,10,14-Nov-25,25-Nov-25
+            MEP-PR1-FPS-1020,"PROC- ORDER FIN - FPS - Valves (OS & Y Gate Valve, Butterfly Valve,Check Valve, Y Strainer and Auto Air Release Valve)",5,30-Sep-25,06-Oct-25
+          Priority 2,,132,07-Oct-25,14-Mar-26
+            MEP-PR1-FPS-1030,PROC- ORDER FIN - FPS - Flow Meter,8,07-Oct-25,15-Oct-25
+            MEP-PR1-FPS-1035,PROC- ORDER FIN - FPS - Flow Switch,5,06-Mar-26,11-Mar-26
+            MEP-PR1-FPS-1010,PROC- ORDER FIN - FPS - Low VOC Paint,3,12-Mar-26,14-Mar-26
+            MEP-PR1-FPS-1005,PROC- ORDER FIN - FPS - MS Pipes,5,16-Oct-25,22-Oct-25
+          Priority 3,,38,23-Oct-25,05-Dec-25
+            MEP-PR1-FPS-1070,PROC- ORDER FIN - FPS - Fire Extinguishers,10,25-Nov-25,05-Dec-25
+            MEP-PR1-FPS-1100,PROC- ORDER FIN - FPS - Fire Safety Signages,10,01-Nov-25,12-Nov-25
+            MEP-PR1-FPS-1040,PROC- ORDER FIN - FPS - Pressure Gauge,10,13-Nov-25,24-Nov-25
+            MEP-PR1-FPS-1045,PROC- ORDER FIN - FPS - Sprinklers,8,23-Oct-25,31-Oct-25
+        HSD,,183,30-Sep-25,31-Mar-26
+          Priority 1,,150,30-Sep-25,31-Mar-26
+            MEP-PR1-HSD-1100,PROC- ORDER FIN - HSD - Automatic Decanting Station,10,06-Jan-26,16-Jan-26
+            MEP-PR1-HSD-1040,PROC- ORDER FIN - HSD - Basket Strainer,10,30-Jan-26,10-Feb-26
+            MEP-PR1-HSD-1000,PROC- ORDER FIN - HSD - Decanting Sampling Tank,10,11-Dec-25,22-Dec-25
+            MEP-PR1-HSD-1020,PROC- ORDER FIN - HSD - Flameproof Fusible Link Valve,10,17-Jan-26,29-Jan-26
+            MEP-PR1-HSD-1050,"PROC- ORDER FIN - HSD - Flow Switch, Pressure Transmitter & Pressure Relief Valve",10,29-Nov-25,10-Dec-25
+            MEP-PR1-HSD-1085,PROC- ORDER FIN - HSD - Fuel Monitoring & Control System PLC Panels with RIO Modules,10,18-Nov-25,28-Nov-25
+            MEP-PR1-HSD-1055,PROC- ORDER FIN - HSD - Fuel Polishing Unit,10,07-Mar-26,18-Mar-26
+            MEP-PR1-HSD-1015,PROC- ORDER FIN - HSD - Fuel Transfer & Overflow Pumps,10,23-Dec-25,05-Jan-26
+            MEP-PR1-HSD-1025,PROC- ORDER FIN - HSD - Motorised Flameproof Valve (ON / OFF),10,13-Oct-25,24-Oct-25
+            MEP-PR1-HSD-1105,PROC- ORDER FIN - HSD - MS ERW Pipes (Sch 40),10,06-Nov-25,17-Nov-25
+            MEP-PR1-HSD-1035,PROC- ORDER FIN - HSD - Non Return Valve,10,25-Oct-25,05-Nov-25
+            MEP-PR1-HSD-1010,PROC- ORDER FIN - HSD - Overflow Tank,10,19-Mar-26,31-Mar-26
+            MEP-PR1-HSD-1080,PROC- ORDER FIN - HSD - Starter cum Control Panel for Pumps,10,23-Feb-26,06-Mar-26
+            MEP-PR1-HSD-1095,PROC- ORDER FIN - HSD - Three Piece Ball Valve,10,11-Feb-26,21-Feb-26
+            MEP-PR1-HSD-1005,PROC- ORDER FIN - HSD - Underground HSD Storage Tanks,10,30-Sep-25,11-Oct-25
+          Priority 2,,84,06-Nov-25,14-Feb-26
+            MEP-PR1-HSD-1045,PROC- ORDER FIN - HSD - Auto Air Vents,12,20-Nov-25,03-Dec-25
+            MEP-PR1-HSD-1065,PROC- ORDER FIN - HSD - Diaphragm Solenoid Valve,12,18-Dec-25,02-Jan-26
+            MEP-PR1-HSD-1030,PROC- ORDER FIN - HSD - Digital Flow Meter,12,06-Nov-25,19-Nov-25
+            MEP-PR1-HSD-1090,PROC- ORDER FIN - HSD - Explosion Proof Local Push Button Station,12,17-Jan-26,31-Jan-26
+            MEP-PR1-HSD-1070,PROC- ORDER FIN - HSD - FS Cables,12,02-Feb-26,14-Feb-26
+            MEP-PR1-HSD-1060,PROC- ORDER FIN - HSD - Level Transmitter & Magnetic Level Switch,12,04-Dec-25,17-Dec-25
+            MEP-PR1-HSD-1075,PROC- ORDER FIN - HSD - Pressure Gauge & Test Point,12,03-Jan-26,16-Jan-26
+          Priority 3,,0,,
+        PHE,,131,06-Nov-25,16-Mar-26
+          Priority 1,,108,06-Nov-25,16-Mar-26
+            MEP-PR1-PHE-1075,PROC- ORDER FIN - PHE - CI Leaf Trap with Khurra,2,18-Feb-26,19-Feb-26
+            MEP-PR1-PHE-1025,PROC- ORDER FIN - PHE - CI Pipes and Fittings,7,06-Nov-25,13-Nov-25
+            MEP-PR1-PHE-1000,PROC- ORDER FIN - PHE - CPVC Pipes and Fittings,5,20-Nov-25,25-Nov-25
+            MEP-PR1-PHE-1010,PROC- ORDER FIN - PHE - DI Pipes and Fittings,7,20-Jan-26,28-Jan-26
+            MEP-PR1-PHE-1060,PROC- ORDER FIN - PHE - DWC Pipes and Fittings,5,06-Feb-26,11-Feb-26
+            MEP-PR1-PHE-1005,PROC- ORDER FIN - PHE - GI Pipes and Fittings,5,12-Feb-26,17-Feb-26
+            MEP-PR1-PHE-1015,PROC- ORDER FIN - PHE - HDPE Pipes and Fititings,7,29-Jan-26,05-Feb-26
+            MEP-PR1-PHE-1055,PROC- ORDER FIN - PHE - Lawn Hydrants,2,23-Feb-26,24-Feb-26
+            MEP-PR1-PHE-1065,PROC- ORDER FIN - PHE - Low Noise Pressure Pipes and Fittings,7,02-Jan-26,09-Jan-26
+            MEP-PR1-PHE-1070,"PROC- ORDER FIN - PHE - PHE Pumps (Hydropnuematic, Submersible & Cutter)",10,26-Nov-25,06-Dec-25
+            MEP-PR1-PHE-1040,PROC- ORDER FIN - PHE - PRV,8,10-Jan-26,19-Jan-26
+            MEP-PR1-PHE-1050,PROC- ORDER FIN - PHE - Puddle Flange,2,20-Feb-26,21-Feb-26
+            MEP-PR1-PHE-1100,PROC- ORDER FIN - PHE - RO Plant,8,25-Feb-26,06-Mar-26
+            MEP-PR1-PHE-1030,PROC- ORDER FIN - PHE - SS Pipes & Fittings,8,07-Mar-26,16-Mar-26
+            MEP-PR1-PHE-1120,PROC- ORDER FIN - PHE - STP System,10,19-Dec-25,31-Dec-25
+            MEP-PR1-PHE-1090,PROC- ORDER FIN - PHE - UPVC Pipes and Fittings,5,14-Nov-25,19-Nov-25
+            MEP-PR1-PHE-1115,PROC- ORDER FIN - PHE - WTP System,10,08-Dec-25,18-Dec-25
+          Priority 2,,38,08-Dec-25,22-Jan-26
+            MEP-PR1-PHE-1035,PROC- ORDER FIN - PHE - Electromagnetic Water Meter,8,26-Dec-25,05-Jan-26
+            MEP-PR1-PHE-1045,PROC- ORDER FIN - PHE - FRP Manhole Cover,3,06-Jan-26,08-Jan-26
+            MEP-PR1-PHE-1085,PROC- ORDER FIN - PHE - Grease Separators,6,16-Jan-26,22-Jan-26
+            MEP-PR1-PHE-1080,PROC- ORDER FIN - PHE - Oil Separators,6,09-Jan-26,15-Jan-26
+            MEP-PR1-PHE-1110,PROC- ORDER FIN - PHE - Sanitary Fixtures and Fittings,10,08-Dec-25,18-Dec-25
+            MEP-PR1-PHE-1020,"PROC- ORDER FIN - PHE - Valves (Ball Valve, Butterfly Valve & Check Valve)",5,19-Dec-25,24-Dec-25
+          Priority 3,,0,,
+        BMS,,86,11-Dec-25,06-Mar-26
+          Priority 1,,50,11-Dec-25,10-Feb-26
+            MEP-PR1-BMS-1030,PROC- ORDER FIN - BMS - Communication Cables,10,17-Jan-26,29-Jan-26
+            MEP-PR1-BMS-1000,PROC- ORDER FIN - BMS - Containment System for BMS,10,23-Dec-25,05-Jan-26
+            MEP-PR1-BMS-1025,PROC- ORDER FIN - BMS - Fiber Optic Cables,10,06-Jan-26,16-Jan-26
+            MEP-PR1-BMS-1040,PROC- ORDER FIN - BMS - Network Switches,10,30-Jan-26,10-Feb-26
+            MEP-PR1-BMS-1045,PROC- ORDER FIN - BMS - RIO Cards & Modules,10,11-Dec-25,22-Dec-25
+          Priority 2,,60,23-Dec-25,06-Mar-26
+            MEP-PR1-BMS-1020,PROC- ORDER FIN - BMS - BMS for Electrical Panels (PMS),12,03-Jan-26,16-Jan-26
+            MEP-PR1-BMS-1010,PROC- ORDER FIN - BMS - BMS for FLD System,8,28-Jan-26,05-Feb-26
+            MEP-PR1-BMS-1055,"PROC- ORDER FIN - BMS - BMS for TFA, PAHU's & FWU's",8,25-Feb-26,06-Mar-26
+            MEP-PR1-BMS-1015,PROC- ORDER FIN - BMS - BMS for WLD & PA System,8,06-Feb-26,14-Feb-26
+            MEP-PR1-BMS-1050,PROC- ORDER FIN - BMS - BMS for WTP & STP System,8,17-Jan-26,27-Jan-26
+            MEP-PR1-BMS-1035,PROC- ORDER FIN - BMS - BMS Server,8,16-Feb-26,24-Feb-26
+            MEP-PR1-BMS-1005,PROC- ORDER FIN - BMS - Sensors,8,23-Dec-25,02-Jan-26
+          Priority 3,,0,,
